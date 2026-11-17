@@ -16,7 +16,7 @@
 		<div
 			class="mx-auto flex h-[60px] max-w-[1440px] items-center justify-between px-6 lg:h-[72px] lg:px-24"
 		>
-			<a href="/" class="text-[15px] font-semibold lg:text-base">nama.kamu</a>
+			<a href="/" class="text-[15px] font-semibold lg:text-base">fanesa</a>
 
 			<div class="flex items-center gap-2 lg:gap-8">
 				<nav class="hidden items-center gap-7 lg:flex">
@@ -87,7 +87,7 @@
 		<h1
 			class="text-[62px] leading-[0.88] font-medium tracking-[-1.6px] lg:text-[232px] lg:tracking-[-9px]"
 		>
-			Nama Kamu
+			fanezza anandita
 		</h1>
 
 		<div class="mt-7 flex flex-col gap-6">
@@ -124,7 +124,7 @@
 			class="h-[220px] w-full object-cover lg:h-[420px]"
 		/>
 		<div class="mx-auto max-w-[1440px] px-6 py-4 lg:px-24">
-			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">LAB RPL — SMK NEGERI 1 · 2026</p>
+			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">LAB RPL — SMK NEGERI 8 · 2026</p>
 		</div>
 	</div>
 
