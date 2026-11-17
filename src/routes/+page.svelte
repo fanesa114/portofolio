@@ -16,7 +16,7 @@
 		<div
 			class="mx-auto flex h-[60px] max-w-[1440px] items-center justify-between px-6 lg:h-[72px] lg:px-24"
 		>
-			<a href="/" class="text-[15px] font-semibold lg:text-base">fanesa</a>
+			<a href="/" class="text-[15px] font-semibold lg:text-base">img</a>
 
 			<div class="flex items-center gap-2 lg:gap-8">
 				<nav class="hidden items-center gap-7 lg:flex">
@@ -119,7 +119,7 @@
 	<!-- band -->
 	<div class="border-t border-line">
 		<img
-			src={theme === 'dark' ? '/images/band-dark.png' : '/images/band-light.png'}
+			src={theme === 'dark' ? '/images/fotooots.jpeg' : '/images/fotooots.jpeg'}
 			alt="Foto kegiatan lab RPL"
 			class="h-[220px] w-full object-cover lg:h-[420px]"
 		/>
@@ -148,7 +148,7 @@
 
 			<div class="mt-7 flex flex-col items-start gap-8 lg:mt-10 lg:flex-row lg:gap-24">
 				<img
-					src={theme === 'dark' ? '/images/portrait-dark.png' : '/images/portrait-light.png'}
+					src={theme === 'dark' ? '/images/fotofolio.jpeg' : '/images/fotofolio.jpeg'}
 					alt="Foto profil"
 					class="h-[428px] w-full object-cover lg:h-[525px] lg:w-[420px]"
 				/>
